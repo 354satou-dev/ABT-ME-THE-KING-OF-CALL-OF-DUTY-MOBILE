@@ -1,0 +1,45 @@
+a {
+  color: #9a5f5c;
+  font-weight: bold;
+  font-family: "Bitcount Prop Single", system-ui;
+  text-decoration: none;
+  padding: 14px 16px;
+}
+body {
+  padding: 20px;
+  background-color: #070000;
+}
+p {
+  color: #ffeded;
+  font-family: "Pixelify Sans", sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 5px;
+  border-color: #3d0d0d;
+  padding: 5px;
+  background-color: #663535;
+  line-height: 3pc;
+}
+h1 {
+  color: #fdbcbc;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-size: 500%;
+  border-bottom-style: dotted;
+  border-color: #9a5f5c;
+}
+img {
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+  border-color: #3d0d0d;
+}
+nav {
+  background-color: #3d0d0d;
+  color: #3d0d0d;
+  display: flex;
+  background-size: cover;
+  text-decoration: none;
+}
